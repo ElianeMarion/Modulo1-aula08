@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\bin\Debug\net6.0\Modulo01 - Aula08.exe
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\bin\Debug\net6.0\Modulo01 - Aula08.deps.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\bin\Debug\net6.0\Modulo01 - Aula08.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\bin\Debug\net6.0\Modulo01 - Aula08.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\bin\Debug\net6.0\Modulo01 - Aula08.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\obj\Debug\net6.0\Modulo01 - Aula08.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\obj\Debug\net6.0\Modulo01 - Aula08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\obj\Debug\net6.0\Modulo01 - Aula08.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\obj\Debug\net6.0\Modulo01 - Aula08.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\obj\Debug\net6.0\Modulo01 - Aula08.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\obj\Debug\net6.0\Modulo01 - Aula08.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\obj\Debug\net6.0\refint\Modulo01 - Aula08.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\obj\Debug\net6.0\Modulo01 - Aula08.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\obj\Debug\net6.0\Modulo01 - Aula08.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\obj\Debug\net6.0\ref\Modulo01 - Aula08.dll
