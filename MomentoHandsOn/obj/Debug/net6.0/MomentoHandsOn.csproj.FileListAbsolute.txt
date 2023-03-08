@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\bin\Debug\net6.0\MomentoHandsOn.exe
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\bin\Debug\net6.0\MomentoHandsOn.deps.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\bin\Debug\net6.0\MomentoHandsOn.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\bin\Debug\net6.0\MomentoHandsOn.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\bin\Debug\net6.0\MomentoHandsOn.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\obj\Debug\net6.0\MomentoHandsOn.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\obj\Debug\net6.0\MomentoHandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\obj\Debug\net6.0\MomentoHandsOn.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\obj\Debug\net6.0\MomentoHandsOn.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\obj\Debug\net6.0\MomentoHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\obj\Debug\net6.0\MomentoHandsOn.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\obj\Debug\net6.0\refint\MomentoHandsOn.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\obj\Debug\net6.0\MomentoHandsOn.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\obj\Debug\net6.0\MomentoHandsOn.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Modulo01 - Aula08\MomentoHandsOn\obj\Debug\net6.0\ref\MomentoHandsOn.dll
